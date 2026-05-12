@@ -4,7 +4,8 @@
 
 ## Integrantes
 
-* Ezequiel Castro Burgos
+* Ezequiel Castro Burgos 
+* Emmanuel Orozco
 
 ---
 
